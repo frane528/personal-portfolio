@@ -1,5 +1,12 @@
+    html {
+        padding: 2em;
+        font-family: 'Roboto Mono', monospace;
+    }
+    
     h1 {
-        font-size: 25 pt;
+        font-family: 'Roboto Mono', monospace;
+        font-size: 16 pt;
+        
     }
     
     a {
@@ -9,4 +16,8 @@
 
     ul{
         list-style-type: none;
+    }
+    
+    .container {
+        max-width: 50vw;
     }
